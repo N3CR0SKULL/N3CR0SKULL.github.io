@@ -73,7 +73,9 @@ Generalmente tiene ocho pines. La salida de pines predeterminada del relay DPDT 
   </tr>
 </tbody>
 </table>
+
 **Características y especificaciones**
+
 Similar a la CONFIGURACIÓN DE PIN, el DPDT relay presenta cambios según el MODELO. Aquí estamos considerando HK19F como un modelo de relay estándar.
 -Voltaje de la BOBINA del relay para encender: 12V.
 -Corriente máxima permitida a través de cada pin POLE: 1A.
