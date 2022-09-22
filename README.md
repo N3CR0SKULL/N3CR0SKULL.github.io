@@ -68,8 +68,32 @@ salida de pines de HK19F se muestra arriba. Para la configuración de pines de d
 **Características y especificaciones**
 
 Similar a la CONFIGURACIÓN DE PIN, el DPDT relay presenta cambios según el MODELO. Aquí estamos considerando HK19F como un modelo de relay estándar.
+
 -Voltaje de la BOBINA del relay para encender: 12V.
+
 -Corriente máxima permitida a través de cada pin POLE: 1A.
+
 -Tiempo de funcionamiento (Tiempo que tarda cada POLO en moverse a la segunda posición después de encender la BOBINA): 6 ms.
+
 -Tiempo de liberación (Tiempo que tarda cada POLO en volver a la posición inicial después de retirar la energía de la BOBINA): 4 ms.
+
 -Carga máxima que puede manejar el relay: 60 vatios.
+
+
+
+Los motores paso a paso se utilizan generalmente en una variedad de aplicaciones en las que se desea un control de posición preciso y no se justifica el costo o la 
+complejidad de un sistema de control de retroalimentación. Aquí hay algunas aplicaciones donde los motores paso a paso se encuentran a menudo:
+
+-Impresoras
+
+-Maquinas CNC
+
+-Impresoras 3D/máquinas de creación de prototipos (por ejemplo, RepRap)
+
+-Cortadoras láser
+
+-Máquinas de recoger y colocar
+
+-Actuadores lineales
+
+-Unidades de disco duro
