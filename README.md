@@ -6,18 +6,6 @@
 Generalmente tiene ocho pines. La salida de pines predeterminada del relay DPDT varía según el MODELO. Aquí estamos tomando el dispositivo HK19F-12V como modelo. La 
 salida de pines de HK19F se muestra arriba. Para la configuración de pines de diferentes modelos de relay, consulte su hoja de datos.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ffme{background-color:#FFF;border-color:inherit;color:#303030;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
