@@ -6,8 +6,7 @@
 
 ![descarga](https://user-images.githubusercontent.com/105949773/191850615-2d1b0bc3-b211-4337-9683-1a842a316555.jpg)
 
-Generalmente tiene ocho pines. La salida de pines predeterminada del relay DPDT varía según el MODELO. Aquí estamos tomando el dispositivo HK19F-12V como modelo. La 
-salida de pines de HK19F se muestra arriba.
+Generalmente tiene ocho pines. La salida de pines predeterminada del relay DPDT varía según el MODELO. Aquí estamos tomando el dispositivo HK19F-12V como modelo.
 
 <table class="tg">
 <thead>
